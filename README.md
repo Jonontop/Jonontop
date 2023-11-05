@@ -22,7 +22,7 @@ I am passionate about web development and programming. Here's a bit about me:
 
 ## Let's Connect
 
-Feel free to connect with me on [LinkedIn](https://www.linkedin.com/in/jonpecar/) and [Twitter](https://twitter.com/jonpecar). I'm always open to interesting collaborations and projects.
+Feel free to connect with me on [LinkedIn](https://www.linkedin.com/in/jon-pe%C4%8Dar-an%C5%BEelak-79772a218?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app) and [Twitter](https://twitter.com/jonpecar). I'm always open to interesting collaborations and projects.
 
 Happy coding! 😊
 
