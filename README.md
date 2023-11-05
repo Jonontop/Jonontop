@@ -7,6 +7,9 @@ I am passionate about web development and programming. Here's a bit about me:
 - 🌱 I'm skilled in HTML, CSS, and Python.
 - ✨ Currently focusing on enhancing my web development skills.
 - 📧 You can reach me at: [jon.pecar@gmail.com](mailto:jon.pecar@gmail.com)
+  or
+[jon.pecar.anzelak@students.vegova.si]
+(mailto:jon.pecar.anzelak@students.vegova.si)
 - 💼 Check out my portfolio: [jonpecar.me](https://jonpecar.me)
 
 ## Skills
