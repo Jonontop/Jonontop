@@ -19,7 +19,7 @@ I am passionate about web development and programming. Here's a bit about me:
 ## Projects
 
 - 🌐 [Personal Website](https://jonpecar.me) - My portfolio website showcasing my projects and skills.
-- 🐍 [Python Web Scraper](https://github.com/username/python-web-scraper) - A web scraper built using Python.
+- 🐍 [Python Youtube Video Downloader](https://github.com/username/python-web-scraper) - A yt video downloader using Python.
 - 🎨 [CSS Grid Layout](https://github.com/username/css-grid-layout) - A project demonstrating CSS Grid Layout techniques.
 
 ## Links
