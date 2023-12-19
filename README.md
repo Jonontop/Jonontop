@@ -13,7 +13,7 @@ I am passionate about web development and programming. Here's a bit about me:
 
 ## Skills
 
-- 💻 **Languages:** HTML, CSS, Python
+- 💻 **Languages:** HTML, CSS, Python, JavaScript
 - 🔧 **Technologies:** Git, GitHub
 
 ## Projects
