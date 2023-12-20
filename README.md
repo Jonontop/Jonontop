@@ -6,6 +6,8 @@ I am passionate about web development and programming. Here's a bit about me:
 - 📫 Discord: ninjacof#1234
 - 🌱 I'm skilled in HTML, CSS, and Python.
 - ✨ Currently focusing on enhancing my web development skills.
+- 🔭 I’m currently working on Gui youtube video/audio downloader with track of downloads in python.
+- 🌱 I’m currently learning Python, JavaScrpit
 - 📧 Email: 
   - [jon.pecar@gmail.com](mailto:jon.pecar@gmail.com)
   - [jon.pecar.anzelak@students.vegova.si](mailto:jon.pecar.anzelak@students.vegova.si)
@@ -40,14 +42,13 @@ Happy coding! 😊
 <!--
 **Jonontop/Jonontop** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started: -->
+Here are some ideas to get you started: 
 
-- 🔭 I’m currently working on Gui youtube video/audio downloader with track of downloads in python.
-- 🌱 I’m currently learning Python, JavaScrpit
-<!--
+
 - 👯 I’m looking to collaborate on ...
 - 🤔 I’m looking for help with ...
 - 💬 Ask me about ...
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
+-->
