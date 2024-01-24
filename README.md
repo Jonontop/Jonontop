@@ -7,7 +7,7 @@ I am passionate about web development and programming. Here's a bit about me:
 - 🌱 I'm skilled in HTML, CSS, and Python.
 - ✨ Currently focusing on enhancing my web development skills.
 - 🔭 I’m currently working on Gui youtube video/audio downloader with track of downloads in python.
-- 🌱 I’m currently learning Python, JavaScrpit
+- 🌱 I’m currently learning Python, JavaScrpit, PHP
 - 📧 Email: 
   - [jon.pecar@gmail.com](mailto:jon.pecar@gmail.com)
   - [jon.pecar.anzelak@students.vegova.si](mailto:jon.pecar.anzelak@students.vegova.si)
@@ -15,13 +15,14 @@ I am passionate about web development and programming. Here's a bit about me:
 
 ## Skills
 
-- 💻 **Languages:** HTML, CSS, Python, JavaScript
+- 💻 **Languages:** HTML, CSS, Python, JavaScript, MarkDown
 - 🔧 **Technologies:** Git, GitHub
 
 ## Projects
 
 - 🌐 [Personal Website](https://jonpecar.me) - My portfolio website showcasing my projects and skills.
 - 🐍 [Python Youtube Video Downloader](https://github.com/Jonontop/YouTube-dowloader) - A yt video downloader using Python.
+- 🐍 [Google-Bot](https://google-bot.xyz/) - Google Bot Website in HTML, CSS, JS.
 - 🎨 [GEOID d.o.o. Website](https://bojanontop.github.io/) - A project demonstrating CSS Grid Layout techniques.
 
 ## Links
