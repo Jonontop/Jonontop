@@ -18,6 +18,9 @@ I am passionate about web development and programming. Here's a bit about me:
 - 💻 **Languages:** HTML, CSS, Python, JavaScript, MarkDown
 - 🔧 **Technologies:** Git, GitHub
 
+## GitHub
+[![GitHub Streak](https://streak-stats.demolab.com?user=Jonontop&theme=dark&border_radius=5&mode=weekly&card_width=500)](https://git.io/streak-stats)
+
 ## Projects
 
 - 🌐 [Personal Website](https://jonpecar.me) - My portfolio website showcasing my projects and skills.
