@@ -21,7 +21,7 @@ I am passionate about web development and programming. Here's a bit about me:
 ## GitHub
 [![GitHub Streak](https://streak-stats.demolab.com?user=Jonontop&theme=dark&border_radius=5&mode=weekly&card_width=500)](https://git.io/streak-stats)
 
-## Languages
+## Knowledge
 
 ![JS](https://img.shields.io/badge/JavaScript-F7DF1E?logo=JavaScript&logoColor=000&style=for-the-badge)
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
