@@ -15,7 +15,7 @@ I am passionate about web development and programming. Here's a bit about me:
 
 ## Skills
 
-- 💻 **Languages:** HTML, CSS, Python, JavaScript, MarkDown, PHP
+- 💻 **Languages:** HTML, CSS, Python, JavaScript, MarkDown, PHP, Batch
 - 🔧 **Technologies:** Git, GitHub
 
 ## GitHub
