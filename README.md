@@ -21,6 +21,10 @@ I am passionate about web development and programming. Here's a bit about me:
 ## GitHub
 [![GitHub Streak](https://streak-stats.demolab.com?user=Jonontop&theme=dark&border_radius=5&mode=weekly&card_width=500)](https://git.io/streak-stats)
 
+## Languages
+
+https://shields.io/badge/JavaScript-F7DF1E?logo=JavaScript&logoColor=000&style=flat-square
+
 ## Projects
 
 - 🌐 [Personal Website](https://jonpecar.me) - My portfolio website showcasing my projects and skills.
