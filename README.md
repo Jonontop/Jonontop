@@ -23,7 +23,7 @@ I am passionate about web development and programming. Here's a bit about me:
 
 ## Languages
 
-https://shields.io/badge/JavaScript-F7DF1E?logo=JavaScript&logoColor=000&style=flat-square
+[JS](https://shields.io/badge/JavaScript-F7DF1E?logo=JavaScript&logoColor=000&style=flat-square)
 
 ## Projects
 
