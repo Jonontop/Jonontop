@@ -40,7 +40,7 @@ I am passionate about web development and programming. Here's a bit about me:
 - 🌐 [Personal Website](https://jonpecar.me) - My portfolio website showcasing my projects and skills.
 - 🐍 [Python Youtube Video Downloader](https://github.com/Jonontop/YouTube-dowloader) - A yt video downloader using Python.
 - 🐍 [Google-Bot](https://google-bot.xyz/) - Google Bot Website in HTML, CSS, JS.
-- 🎨 [GEOID d.o.o. Website](https://bojanontop.github.io/) - A project demonstrating CSS Grid Layout techniques.
+- 🎨 [Kroky library](https://github.com/Jonontop/kroky-library) - A project demonstrating CSS Grid Layout techniques.
 
 ## Links
 
